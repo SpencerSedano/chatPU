@@ -1,0 +1,22 @@
+{"intents": [
+    {"tag": "greetings",
+        "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up?", "how's it going?"],
+    "responses": ["Hello!", "Hey!", "What can I do for you?", "How can I help you?"]},
+
+    {"tag": "goodbye",
+        "patterns": ["bye", "goodbye", "see you later", "nice chatting to you", "until next time", "see you soon", "I have to go now"],
+    "responses": ["See you!", "Bye for now", "Until next time", "Have a nice day"]},
+
+    {"tag": "thanks",
+        "patterns": ["thanks", "thank you", "that's helpful", "awesome, thanks", "thanks for your help", "I appreciat your help"],
+    "responses": ["You're welcome!", "Any time!", "Happy to help!", "My pleasure"]},
+
+    {"tag": "School Name",
+        "patterns": ["What is the name of this university?", "What is this university?", "University", "Name of school", "Name of university"],
+    "responses": ["Providence University"]},
+
+    {"tag": "About School",
+        "patterns": ["What is Providence University?", "What is this school about?", "About School", "Tell me about the school"],
+    "responses": ["Providence University is a Catholic co-educational institution in Shalu District, Taichung City, Taiwan. Providence University is one of the U12 Consortium member schools, and is one of two Taiwan universities participating in the ISEP network."]}
+
+    ]}
